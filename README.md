@@ -1,2 +1,3 @@
 # student
-this is my first repository
+this is my first  github repository
+author - satyavan
